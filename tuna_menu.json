@@ -5,35 +5,35 @@
       "title": "진 (20피스, 200g, 2인용)",
       "details": "신선한 참치 20피스, 200g",
       "price": "₩35,000",
-      "image": "https://github.com/rasmana/sujuna/blob/main/tuna_jin.jpg"
+      "image": "https://raw.githubusercontent.com/rasmana/sujuna/main/tuna_jin.jpg"
     },
     {
       "name": "선",
       "title": "선 (25피스, 250g, 3인용)",
       "details": "고급 참치 25피스, 250g",
       "price": "₩45,000",
-      "image": "https://github.com/rasmana/sujuna/blob/main/tuna_sun.jpg"
+      "image": "https://raw.githubusercontent.com/rasmana/sujuna/main/tuna_sun.jpg"
     },
     {
       "name": "미",
       "title": "미 (30피스, 300g, 4인용)",
       "details": "프리미엄 참치 30피스, 300g",
       "price": "₩55,000",
-      "image": "https://github.com/rasmana/sujuna/blob/main/tuna_mi.jpg"
+      "image": "https://raw.githubusercontent.com/rasmana/sujuna/main/tuna_mi.jpg"
     },
     {
       "name": "특선",
       "title": "특선 (40피스, 400g, 5인용)",
       "details": "최고급 참치 40피스, 400g",
       "price": "₩75,000",
-      "image": "https://github.com/rasmana/sujuna/blob/main/tuna_special.jpg"
+      "image": "https://raw.githubusercontent.com/rasmana/sujuna/main/tuna_special.jpg"
     },
     {
       "name": "혼합세트",
       "title": "혼합세트 (50피스, 500g, 6인용)",
       "details": "다양한 참치 부위 50피스, 500g",
       "price": "₩95,000",
-      "image": "https://github.com/rasmana/sujuna/blob/main/tuna_mix.jpg"
+      "image": "https://raw.githubusercontent.com/rasmana/sujuna/main/tuna_mix.jpg"
     }
   ]
 }
