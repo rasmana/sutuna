@@ -3,7 +3,11 @@
     "name": "수 참치",
     "phone": "010-8915-0903",
     "address": "인천광역시 간석동 123",
-    "website": "https://sujuna.co.kr"
+    "website": "https://sujuna.co.kr",
+    "payment_options": ["현장결제", "카드 결제", "계좌 이체"],
+    "order_options": ["방문 예약", "TakeOut", "배달"],
+    "default_payment": "현장결제",
+    "default_order": "방문 예약"
   },
   "menus": [
     {
