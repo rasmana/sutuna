@@ -16,6 +16,7 @@
       "details": "신선한 참치 20피스, 200g",
       "price": "₩37,000",
       "image": "https://raw.githubusercontent.com/rasmana/sutuna/main/tuna_jin.jpg"
+      "bigimage": "https://raw.githubusercontent.com/rasmana/sutuna/main/tuna_jin.jpg"
     },
     {
       "name": "선",
@@ -23,6 +24,7 @@
       "details": "고급 참치 30피스, 450g",
       "price": "₩45,000",
       "image": "https://raw.githubusercontent.com/rasmana/sutuna/main/tuna_sun.jpg"
+      "bigimage": "https://raw.githubusercontent.com/rasmana/sutuna/main/tuna_sun.jpg"
     },
     {
       "name": "진",
@@ -30,6 +32,7 @@
       "details": "프리미엄 참치 40피스, 700g",
       "price": "₩58,000",
       "image": "https://raw.githubusercontent.com/rasmana/sutuna/main/tuna_mi.jpg"
+      "bigimage": "https://raw.githubusercontent.com/rasmana/sutuna/main/tuna_mi.jpg"
     },
     {
       "name": "골드",
@@ -37,6 +40,7 @@
       "details": "최고급 참치 50피스, 900g",
       "price": "₩80,000",
       "image": "https://raw.githubusercontent.com/rasmana/sutuna/main/tuna_gold.jpg"
+      "bigimage": "https://raw.githubusercontent.com/rasmana/sutuna/main/tuna_gold.jpg"
     },
     {
       "name": "스페셜",
@@ -44,6 +48,7 @@
       "details": "다양한 참치 부위 50피스, 1000g",
       "price": "₩100,000",
       "image": "https://raw.githubusercontent.com/rasmana/sutuna/main/tuna_specia.jpg"
+      "bigimage": "https://raw.githubusercontent.com/rasmana/sutuna/main/tuna_gold.jpg"
     }
   ]
 }
