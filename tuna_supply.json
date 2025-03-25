@@ -1,7 +1,7 @@
 {
   "store": {
     "name": "인천 참치 공급 공식 업체",
-    "phone": "010-9193-5825",
+    "phone": "010-9075-6400",
     "address": "인천광역시 간석동 123",
     "website": "https://sujuna.co.kr",
     "payment_options": ["퀵서비스", "오전배달", "오후배달"],
@@ -15,35 +15,40 @@
       "title": "미 (20피스, 200g, 1인용)",
       "details": "원어: 459kg 배로인: 91.8kg 참다랑어 (가마육, 배꼽도로, 가마도로, 1번~5번 뱃살, 등외도로, 뽈살, 적신), 눈다랑어 뱃살, 황새치 뱃살 부위 별 선택 구매 가능",
       "price": "134,000",
-      "image": "https://raw.githubusercontent.com/rasmana/sutuna/main/su1.jpg"
+      "image": "https://raw.githubusercontent.com/rasmana/sutuna/main/su1.jpg",
+      "bigimage": "https://raw.githubusercontent.com/neverjazz7/supremium/main/tuna04.jpeg"
     },
     {
       "name": "초대형 참치블럭",
       "title": "90상 초대형 참치블럭",
       "details": "고급 참치 30피스, 450g",
       "price": "1,100,000원",
-      "image": "https://raw.githubusercontent.com/rasmana/sutuna/main/su6.jpg"
+      "image": "https://raw.githubusercontent.com/rasmana/sutuna/main/su6.jpg",
+      "bigimage": "https://raw.githubusercontent.com/neverjazz7/supremium/main/tuna04.jpeg"
     },
     {
       "name": "참다랑어 뱃살 1급 1kg",
       "title": "(최고급 참치회) 혼마도로 1급 혼마도로 오도로",
       "details": "프리미엄 참치 40피스, 700g",
       "price": "305,000원",
-      "image": "https://raw.githubusercontent.com/rasmana/sutuna/main/su3.jpg"
+      "image": "https://raw.githubusercontent.com/rasmana/sutuna/main/su3.jpg",
+      "bigimage": "https://raw.githubusercontent.com/neverjazz7/supremium/main/tuna04.jpeg"
     },
     {
       "name": "윤기 좔좔 최고급 참다랑어",
       "title": "골드 (40피스, 900g, 1인용)",
       "details": "[VIP참치]참다랑어 도매 2번도로 1kg 66 000원 살살 녹는 통참치, 5kg, 1개",
       "price": "₩220,000",
-      "image": "https://raw.githubusercontent.com/rasmana/sutuna/main/su4.jpg"
+      "image": "https://raw.githubusercontent.com/rasmana/sutuna/main/su4.jpg",
+      "bigimage": "https://raw.githubusercontent.com/neverjazz7/supremium/main/tuna04.jpeg"
     },
     {
       "name": "신선참치회 참다랑어뱃살",
       "title": "파인튜나 1Kg참다랑어 대뱃살",
       "details": "[VIP참치] 윤기 좔좔 최고급 참다랑어 가마도로",
       "price": "₩400,000",
-      "image": "https://raw.githubusercontent.com/rasmana/sutuna/main/su5.jpg"
+      "image": "https://raw.githubusercontent.com/rasmana/sutuna/main/su5.jpg",
+      "bigimage": "https://raw.githubusercontent.com/neverjazz7/supremium/main/tuna04.jpeg"
     }
   ]
 }
